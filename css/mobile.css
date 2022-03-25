@@ -156,3 +156,51 @@
 /* HERO END */
 
 /* HEADER END */
+
+
+
+
+/* FEATURES START */
+
+.features {
+    text-align: center;
+    padding: 0 1rem;
+}
+
+.feature-icon {
+    width: 100px;
+    height: 100px;
+    padding: 1.5rem;
+    border-radius: 15px;
+}
+
+.feature-descriptions {
+    padding: 1rem;
+    font-size: 1.5rem;
+}
+
+.feature-description {
+    margin: 0.25rem 0;
+}
+
+.features-about {
+    padding: 2rem 1rem;
+}
+
+.features-about__content-subheader, .pricing__content-header {
+    font-size: 2rem;
+}
+
+.features-about__instruction {
+    height: 40vh;
+    background-image: url(../images/draw.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+
+
+
+
+
+/* FEATURES END */

@@ -17,3 +17,23 @@
 .hero__content-description {
     font-size: 1.5rem;
 }
+
+
+
+.features {
+    align-items: initial;
+}
+
+
+.features-about {
+    flex-wrap: nowrap;
+}
+
+
+.features, .features-about {
+    padding: 0;
+}
+
+.features-about__content {
+    padding-right: 2rem;
+}

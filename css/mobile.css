@@ -335,3 +335,34 @@
 
 
 /* PRICING END */
+
+/* DOWNLOAD START */
+
+
+.download-container {
+    background-image: url(../images/banner/product.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    align-items: center;
+    padding: 6.25rem 1rem;
+}
+
+.download__header-text {
+    text-align: center;
+    font-size: 2rem;
+    color: white;
+}
+
+.download__stores {
+    justify-content: center;
+}
+
+.app-store, .google-play {
+    min-height: 60px;
+    width: auto;
+    margin: 0.5rem;
+}
+
+
+/* DOWNLOAD END */

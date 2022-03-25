@@ -137,7 +137,7 @@
 
 
 
-@media screen and (min-width: 1201px) {
+@media screen and (min-width: 1024px) {
     .col.lg-12 {
         flex-basis: 100%;
         max-width: 100%;

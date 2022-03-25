@@ -37,3 +37,8 @@
 .features-about__content {
     padding-right: 2rem;
 }
+
+
+.comments {
+    justify-content: center;
+}

@@ -366,3 +366,42 @@
 
 
 /* DOWNLOAD END */
+
+
+/* FOOTER START */
+
+.footer-menu {
+    padding: 2.5rem 1rem;
+}
+
+
+.footer-nav__header {
+    font-weight: 500;
+    color: white;
+    font-size: 1.25rem;
+}
+
+.footer-nav__item {
+    padding: 0.75rem 0;
+    color: #b5bbbd;
+}
+
+/*COPYRIGHTS START */
+
+.copyrights {
+    background-color: #080808;
+    margin: 0;
+    padding: 1rem;
+}
+
+.copyright-text {
+    text-align: center;
+    color: #b5bbbd;
+
+}
+
+/*COPYRIGHTS END */
+
+
+
+/* FOOTER END */

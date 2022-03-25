@@ -107,18 +107,15 @@
     margin: 0 auto 6.25rem auto;
 }
 
+.footer-nav {
+    padding: 2rem 1.5rem 2rem 0;
+}
+
 .footer-menu {
     padding-bottom: 12.5rem;
 }
 
 
-.footer-nav:first-child {
-    padding-right: 3rem;
-}
-
-.footer-nav:nth-child(2), .footer-nav:nth-child(3) {
-    padding: 2rem;
-}
 
 
 

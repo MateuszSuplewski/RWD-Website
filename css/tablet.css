@@ -57,3 +57,16 @@
 .download__header-text {
     text-align: left;
 }
+
+
+.footer-nav {
+    padding: 2rem;
+}
+
+.footer-nav__header {
+    margin-top: 0;
+}
+
+.footer-nav__content, .footer-nav__header, .footer-nav__logo {
+    padding-bottom: 1.5rem;
+}

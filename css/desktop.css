@@ -1,0 +1,114 @@
+.nav__links:not(.nav__links-dropdown) {
+    position: initial;
+    background-color: initial;
+    height: auto;
+
+}
+
+
+.top-menu .nav .nav__links {
+    display: flex;
+    list-style: none;
+    flex-wrap: nowrap;
+}
+
+.nav__item {
+    margin-right: 5px;
+}
+
+.nav__item {
+    position: relative;
+}
+
+
+.nav__links-dropdown {
+    position: absolute;
+    top: 37px;
+    display: none;
+    left: 0;
+    background-color: initial;
+}
+
+.nav__item-link-dropdown, .nav__links-dropdown {
+    padding: 5px 15px;
+    margin: 0 auto;
+    text-align: left;
+}
+
+
+
+
+.nav__item:hover>.nav__links-dropdown {
+    display: block;
+}
+
+
+
+.nav__item-link:hover {
+    background-color: rgb(40, 90, 230);
+}
+
+
+.top-menu .nav .hamburger {
+    display: none;
+}
+
+
+
+
+.top-menu {
+    position: initial;
+    padding-top: 20px;
+}
+
+.top-menu {
+    background-color: initial;
+}
+
+
+/*---------------------------------------*/
+
+
+
+
+.features-container, .hero, .comments-container, .pricing-container, .download-container, .footer-menu, .copyrights, .top-menu {
+    padding-left: 1.75rem;
+    padding-right: 1.75rem;
+}
+
+.features-container, .hero, .comments-container, .pricing-container, .download-container, .footer-menu {
+    padding-top: 8.75rem;
+    padding-bottom: 8.75rem;
+}
+
+.hero__content-header, .pricing__content-header, .download__header-text, .comments-header, .pricing__content-header {
+    font-size: 2.5rem;
+}
+
+.hero {
+    padding-top: 8.75rem;
+    padding-bottom: 0;
+}
+
+
+.hero__content-description {
+    font-size: 1rem;
+}
+
+
+
+
+
+
+
+
+/*Pomyslec nad buttonem*/
+.download-btn {
+    display: initial;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #44b4f5;
+    color: white;
+    font-size: 1rem;
+}

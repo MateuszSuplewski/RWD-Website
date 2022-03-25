@@ -1,0 +1,19 @@
+.features-container, .hero, .comments-container, .pricing-container, .download-container, .footer-menu, .copyrights, .top-menu {
+    padding-left: 3.75rem;
+    padding-right: 3.75rem;
+}
+
+
+.hero {
+    align-items: center;
+}
+
+.hero__content {
+    padding-top: 3.75rem;
+    align-self: flex-start;
+    padding-right: 2rem;
+}
+
+.hero__content-description {
+    font-size: 1.5rem;
+}

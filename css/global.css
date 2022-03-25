@@ -1,0 +1,158 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+}
+
+body, html {
+    margin: 0;
+    padding: 0;
+    background-color: #F5F5F5;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+figure {
+
+    margin-inline-end: 0;
+    margin-inline-start: 0;
+}
+
+.nav__item:hover .arrow {
+    transform: rotate(90deg);
+
+}
+
+.arrow {
+
+    transition: all 0.3s ease;
+}
+
+
+
+.cta-btn {
+    min-width: 200px;
+    font-weight: 500;
+    padding: 1rem 1.5rem;
+    border: none;
+    border-radius: 5px;
+    letter-spacing: 2px;
+    background-color: #37EBED;
+    color: white;
+    font-size: 1rem;
+    margin: 1.5rem 0;
+}
+
+.cta-btn:hover {
+    background-color: #23659b;
+}
+
+.price-btn:hover {
+    border-color: transparent;
+    color: #F5F5F5;
+    background-color: #65adfa;
+}
+
+
+
+
+.footer-nav__items, .option__additionals, figure, .nav__links {
+    margin-block-start: 0;
+    margin-block-end: 0;
+    padding-inline-start: 0;
+    list-style: none;
+}
+
+/* do zmiany marginy na remy */
+.social-icon {
+    background-color: #747474;
+    border-radius: 50%;
+    color: white;
+    padding: 10px;
+    font-size: 20px;
+    height: 40px;
+    width: 40px;
+    text-align: center;
+    margin: 10px 8px 10px 0;
+}
+
+.star {
+    font-size: 1.5rem;
+}
+
+.star--yellow {
+    color: #FFD35A
+}
+
+.hero__content-description {
+    color: #F5F5F5;
+}
+
+.cta-btn--blue, .feature-icon--blue {
+    background-color: #0181F5;
+}
+
+
+
+.feature-icon--orange {
+    background-color: #FD915D;
+}
+
+.feature-icon--green {
+    background-color: #37EF8D;
+}
+
+.features-about__content-description {
+    color: #585b5c;
+}
+
+
+
+
+
+.option__plan--blue {
+    background-color: #E9F4FE;
+}
+
+.option__plan--orange {
+    background-color: #FEF4EE;
+}
+
+.option__plan--green {
+    background-color: #E8FCF1;
+}
+
+
+
+
+.option__plan-price--blue {
+    color: #1389F6;
+}
+
+.option__plan-price--orange {
+    color: #FD915D;
+}
+
+.option__plan-price--green {
+    color: #37EF8D;
+}
+
+
+.pricing__content-text {
+    color: #585b5c;
+}
+
+.footer-nav__content {
+    color: #b5bbbd;
+}
+
+
+.footer-menu {
+    background-color: #1F1F1F;
+}
+
+.thanks-to {
+    color: #1389F6;
+}

@@ -42,3 +42,13 @@
 .comments {
     justify-content: center;
 }
+
+
+.pricing__options {
+    align-items: center;
+}
+
+.pricing__content-header {
+    width: 50%;
+    margin: 3.75rem auto;
+}

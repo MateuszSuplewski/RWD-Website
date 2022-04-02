@@ -3,6 +3,7 @@
     background-color: initial;
     height: auto;
     min-height: initial;
+    overflow-y: initial;
 
 }
 
@@ -36,6 +37,10 @@
     text-align: left;
 }
 
+
+.nav__item-dropdown{
+    padding-left: 0;
+}
 
 
 

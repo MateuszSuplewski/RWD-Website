@@ -3,6 +3,10 @@
     padding-right: 3.75rem;
 }
 
+.nav__item-dropdown{
+    padding-left: 35%;
+}
+
 
 .hero {
     align-items: center;

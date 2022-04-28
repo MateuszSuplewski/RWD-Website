@@ -39,10 +39,14 @@
 
 
 
-.nav__links-dropdown, .nav__links {
+.nav__links-dropdown, .nav__links , .aaac {
     list-style: none;
 }
 
+.footer-nav__item-link{
+    text-decoration: none;
+    color: #b5bbbd;
+}
 
 .nav__links:not(.nav__links-dropdown) {
     position: fixed;
@@ -54,7 +58,6 @@
     width: 100%;
     display: block;
     text-align: center;
-    /*pomyslec tu nad flex*/
     transition: all 0.3s ease;
     overflow-y: scroll;
 }
@@ -329,6 +332,7 @@
     color: #65adfa;
     font-size: 1rem;
     margin: 1.5rem 0;
+    cursor: pointer;
 
 }
 
@@ -368,10 +372,13 @@
     justify-content: center;
 }
 
-.app-store, .google-play {
+.app-store-link, .google-play-link {
+    margin: 0.5rem;
+}
+
+.app-store, .google-play{
     min-height: 60px;
     width: auto;
-    margin: 0.5rem;
 }
 
 
@@ -393,7 +400,6 @@
 
 .footer-nav__item {
     padding: 0.75rem 0;
-    color: #b5bbbd;
 }
 
 /*COPYRIGHTS START */

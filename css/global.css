@@ -43,9 +43,10 @@ figure {
     color: white;
     font-size: 1rem;
     margin: 1.5rem 0;
+    cursor: pointer;
 }
 
-.cta-btn:hover {
+.cta-btn:hover , .download-btn:hover{
     background-color: #23659b;
 }
 

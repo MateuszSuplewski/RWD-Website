@@ -71,6 +71,17 @@
     background-color: initial;
 }
 
+.download-btn {
+    display: initial;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #44b4f5;
+    color: white;
+    font-size: 1rem;
+    cursor: pointer;
+}
+
 
 /*---------------------------------------*/
 
@@ -112,6 +123,10 @@
     padding-bottom: 8.75rem;
 }
 
+.download__stores{
+    align-items: center;
+}
+
 
 .pricing__content-text {
     width: 50%;
@@ -126,19 +141,3 @@
     padding-bottom: 12.5rem;
 }
 
-
-
-
-
-
-
-/*Pomyslec nad buttonem*/
-.download-btn {
-    display: initial;
-    padding: 10px 20px;
-    border: none;
-    border-radius: 5px;
-    background-color: #44b4f5;
-    color: white;
-    font-size: 1rem;
-}

@@ -4,7 +4,7 @@
 
 #  AppLab Website
 
-See the live version of [AppLab]([https://mateuszsuplewski.github.io/RWD-Website/](https://mateuszsuplewski.github.io/RWD-Website/)).
+See the live version of [AppLab](https://mateuszsuplewski.github.io/RWD-Website/).
 
 AppLab Website is a responsive landing page builded with [Colarlib free template](https://colorlib.com/wp/template/applab/).
 
